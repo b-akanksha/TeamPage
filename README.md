@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://b-akanksha.github.io/TeamPage/">
       Demo
     </a>
     <span> | </span>
@@ -32,4 +32,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screenshot from 2021-11-14 22-18-27](https://user-images.githubusercontent.com/33523276/141690274-182fad9b-749e-4051-9ceb-9dc0e3806a11.png)![Screenshot from 2021-11-14 22-18-43](https://user-images.githubusercontent.com/33523276/141690283-28011a6c-7d4d-4809-8e29-040575eb0f43.png)
+![Screenshot from 2021-11-14 22-18-47](https://user-images.githubusercontent.com/33523276/141690285-a7149103-c261-44c1-8f2b-0d0a65298b30.png)
+
+![Screenshot from 2021-11-14 22-18-33](https://user-images.githubusercontent.com/33523276/141690280-cd85d437-bc2e-4adb-9bd9-de8216439ae0.png)
+
+
